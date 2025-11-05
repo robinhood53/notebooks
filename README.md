@@ -2,7 +2,7 @@
 
 This repository will remain publicly availble as we migrate content. However, please be aware that Notebooks within this repository are not maintained; you should not file any issues or pull requests.
 
-**The currently maintained repositories for each mission are linked below**
+**The currently maintained repositories for each mission are linked below.**
 
 # HST Notebooks:
 - https://spacetelescope.github.io/hst_notebooks/
