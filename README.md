@@ -1,8 +1,8 @@
-# You are in the wrong place!
+# Compendium of STScI Jupyter Notebooks on GitHub
 
-### To support the community, STScI has developed numerous user tutorials in the form of notebooks that address working with data from the combination of missions that we support. These notebooks demonstrate common workflows for users of all experience levels.
+To support the community, STScI has developed numerous user tutorials in the form of notebooks that address working with data from the combination of missions that we support. These notebooks demonstrate common workflows for users of all experience levels.
 
-This repository will remain publicly availble as we migrate content. However, please be aware that Notebooks within this repository are not maintained; you should not file any issues or pull requests.
+### Please be aware that Notebooks are not maintained within this repository.
 
 **The currently maintained repositories for each mission are linked below.**
 
