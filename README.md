@@ -1,5 +1,7 @@
 # You are in the wrong place!
 
+### To support the community, STScI has developed numerous user tutorials in the form of notebooks that address working with data from the combination of missions that we support. These notebooks demonstrate common workflows for users of all experience levels.
+
 This repository will remain publicly availble as we migrate content. However, please be aware that Notebooks within this repository are not maintained; you should not file any issues or pull requests.
 
 **The currently maintained repositories for each mission are linked below.**
